@@ -1,0 +1,95 @@
+/* ==================
+          背景
+ ==================== */
+/* -- 基础色 -- */
+// @each $color, $value in map-merge($colors, $darks) {
+// 	.bg-#{$color} {
+// 		background-color: $value !important;
+// 		@if $color == 'yellow' {
+// 			color: #333333 !important;
+// 		} @else {
+// 			color: #ffffff !important;
+// 		}
+// 	}
+// }
+
+/* -- 浅色 -- */
+
+/* -- 渐变色 -- */
+
+$white:   	#ffffff;
+
+	.bg-orange-gradient {
+		background-image: linear-gradient(45deg, #ff9700, #ed1c24) !important;
+		color: $white !important;
+	}
+	.bg-red-gradient {
+		background-image: linear-gradient(45deg, #f33a41, #ed0586) !important;
+		color: $white !important;
+	}
+	.bg-pink-gradient {
+		background-image: linear-gradient(45deg, #fea894, #ff1047) !important;
+		color: $white !important;
+	}
+	.bg-mauve-gradient {
+		background-image: linear-gradient(45deg, #c01f95, #7115cc) !important;
+		color: $white !important;
+	}
+	.bg-purple-gradient {
+		background-image: linear-gradient(45deg, #9829ea, #5908fb) !important;
+		color: $white !important;
+	}
+	.bg-blue-gradient {
+		background-image: linear-gradient(45deg, #00b8f9, #0166eb) !important;
+		color: $white !important;
+	}
+	.bg-cyan-gradient {
+		background-image: linear-gradient(45deg, #06edfe, #48b2fe) !important;
+		color: $white !important;
+	}
+	
+	.bg-green-gradient {
+		background-image: linear-gradient(45deg, #3ab54a, #8cc63f) !important;
+		color: $white !important;
+	}
+	.bg-olive-gradient {
+		background-image: linear-gradient(45deg, #90e630, #39d266) !important;
+		color: $white !important;
+	}
+	.bg-grey-gradient {
+		background-image: linear-gradient(45deg, #9aadb9, #354855) !important;
+		color: $white !important;
+	}
+	.bg-brown-gradient {
+		background-image: linear-gradient(45deg, #ca6f2e, #cb1413) !important;
+		color: $white !important;
+	}
+	.bg-cred-gradient{
+		background-image: linear-gradient(to top, #f77062 0%, #fe5196 100%);
+		color: $white !important;
+	}
+	.bg-cgrey-gradient{
+		background-image: linear-gradient(-225deg, #9EFBD3 0%, #57E9F2 48%, #45D4FB 100%) !important;
+		color: $white !important;
+	}
+	.bg-cbrown-gradient{
+		background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%) !important;
+		color: $white !important;
+	}
+	.bg-cpink-gradient{
+		background-image: linear-gradient(to top, #fad0c4 0%, #fad0c4 1%, #ffd1ff 100%) !important;
+		color: $white !important;
+	}
+
+.bg-none {
+	background: transparent !important;
+	color: inherit !important;
+}
+
+.bg-img {
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+
