@@ -23,23 +23,17 @@
 ```
  ### 项目图片
   
-<div align="center">
-  <image width="300" src="https://image-1317015482.cos.ap-shanghai.myqcloud.com/ppt/
-  %E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230418150423.jpg"/>
-  <image width="300" src="https://image-1317015482.cos.ap-shanghai.myqcloud.com/ppt/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202304181504241.jpg"/>
-   <image width="300" src="https://image-1317015482.cos.ap-shanghai.myqcloud.com/ppt/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202304181504231.jpg"/>
+<div >
+  <image width="300" src="https://image-1317015482.cos.ap-shanghai.myqcloud.com/ppt/1.jpg"/>
+  <image width="300" src="https://image-1317015482.cos.ap-shanghai.myqcloud.com/ppt/7.jpg"/>
+  <image width="300" src="https://image-1317015482.cos.ap-shanghai.myqcloud.com/ppt/8.jpg"/>
+  <image width="300" src="https://image-1317015482.cos.ap-shanghai.myqcloud.com/ppt/5.jpg"/>
+  <image width="300" src="https://image-1317015482.cos.ap-shanghai.myqcloud.com/ppt/2.jpg"/>
+  <image width="300" src="https://image-1317015482.cos.ap-shanghai.myqcloud.com/ppt/3jpg"/>
+  <image width="300" src="https://image-1317015482.cos.ap-shanghai.myqcloud.com/ppt/4.jpg"/>
+  <image width="300" src="https://image-1317015482.cos.ap-shanghai.myqcloud.com/ppt/6.jpg"/>
+  <image width="300" src="https://image-1317015482.cos.ap-shanghai.myqcloud.com/ppt/9.jpg"/>
 </div>
-<image width="300" src="https://image-1317015482.cos.ap-shanghai.myqcloud.com/ppt/
-%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230418150424.jpg"/>
-<div align="center">
-
-<div align="center">
-  <image width="300" src="https://image-1317015482.cos.ap-shanghai.myqcloud.com/ppt/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202304181504282.jpg"/>
-   <image width="300" src="https://image-1317015482.cos.ap-shanghai.myqcloud.com/ppt/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230418150425.jpg"/>
-    <image width="300" src="https://image-1317015482.cos.ap-shanghai.myqcloud.com/ppt/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202304181504261.jpg"/>
-    <image width="300" src="https://image-1317015482.cos.ap-shanghai.myqcloud.com/ppt/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230418150428.jpg"/>
-</div>
-
 
 
 
